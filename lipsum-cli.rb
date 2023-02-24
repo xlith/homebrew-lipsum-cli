@@ -1,8 +1,8 @@
 class LipsumCli < Formula
   desc "Terminal application generating pseudo-Latin lorem ipsum text written in Rust"
   homepage "https://github.com/xlith/lipsum-cli"
-  url "https://github.com/xlith/lipsum-cli/archive/refs/tags/0.2.1.tar.gz"
-  sha256 "09573f4d956225c565c7f00b03cfd5bd9bc2ec9250e7d5d5eb409a6fa7dee27d"
+  url "https://github.com/xlith/lipsum-cli/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "bdf7280089e2bd39926c781c4ca379fa538720af2c2894dfd25ce81dcf580575"
   license "MIT"
 
   depends_on "rust" => :build
